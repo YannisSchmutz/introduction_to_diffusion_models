@@ -38,6 +38,8 @@ pip install matplotlib
 pip install sklearn
 pip install scikit-learn
 pip install tqdm
+pip install keras
+pip install tensorflow
 ```
 
 
